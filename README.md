@@ -10,12 +10,12 @@
   <tr>
     <td width="50%">
       <strong>Synthetic CIBIL Scoring</strong><br>
-      Attempt to create a pseudo-CIBIL score.<br>
+      Created a metric that functions as a pseudo-CIBIL score <br>
       🔗 <a href="https://github.com/r-g42/synthetic-cibil-scoring">Repo</a>
     </td>
     <td width="50%">
       <strong>Customer Segmentation</strong><br>
-      Comparing clustering techniques on UCI data.<br>
+      Benchmarking clustering techniques on UCI data.<br>
       🔗 <a href="https://github.com/r-g42/customer-segmentation">Repo</a>
     </td>
   </tr>
@@ -23,12 +23,12 @@
   <tr>
     <td width="50%">
       <strong>UrbanSound ANC</strong><br>
-      TCN noise cancelling model, distilled to be used on edge devices.<br>
+      TCN noise cancelling model distilled to be used on edge devices.<br>
       🔗 <a href="https://github.com/r-g42/urbansound-anc">Repo</a>
     </td>
     <td width="50%">
       <strong>DP-P2P</strong><br>
-      Comparing differential privacy techniques using p2p fileshare.<br>
+      Comparing differential privacy techniques using P2P fileshare<br>
       🔗 <a href="https://github.com/r-g42/dp-p2p">Repo</a>
     </td>
   </tr>
