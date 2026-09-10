@@ -1,4 +1,5 @@
-## Hi, I’m Rohan - previously Technical Solutions @ Palo Alto Networks
+## Hi, I’m Rohan - 
+- **previously Technical Solutions @ Palo Alto Networks
 - **B.E. in CSE & Data Science** @ R.V. College of Engineering
 
 ---
@@ -46,8 +47,8 @@
 
 ### Skills & Tools
 
-I pick the tools that fit the problem, rather than picking problems that fit my stack.
+I pick the best tools for the problem 
 
 ---
 
-#### You can find me via [LinkedIn](https://www.linkedin.com/in/rohan-ganesh) or [Email](mailto:rohanganesh12345@gmail.com)
+#### You can find me via [LinkedIn](https://www.linkedin.com/in/rohan-ganesh-825606351/) or [Email](mailto:rohanganesh12345@gmail.com)
