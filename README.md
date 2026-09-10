@@ -1,4 +1,4 @@
-## Hi, I’m Rohan - 
+## Hi, I’m Rohan 
 - Previously Technical Solutions @ Palo Alto Networks
 - **B.E. in CSE & Data Science** @ R.V. College of Engineering
 
@@ -47,7 +47,7 @@
 
 ### Skills & Tools
 
-I pick the best tools for the problem 
+I pick the best tools for the problem.
 
 ---
 
