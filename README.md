@@ -1,5 +1,5 @@
 ## Hi, I’m Rohan 
-- Previously Technical Solutions @ Palo Alto Networks, data @ Living Things
+- Previously Technical Solutions @ Palo Alto Networks, Data @ Living Things
 - **B.E. in CSE & Data Science** @ R.V. College of Engineering
 
 ---
