@@ -1,5 +1,5 @@
 ## Hi, I’m Rohan - 
-- **previously Technical Solutions @ Palo Alto Networks
+- Previously Technical Solutions @ Palo Alto Networks
 - **B.E. in CSE & Data Science** @ R.V. College of Engineering
 
 ---
